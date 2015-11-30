@@ -1,0 +1,16 @@
+{
+  "name": "voxel-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ndarray": "^1.0.18",
+    "ndarray-fill": "^1.0.1",
+    "voxel-crunch": "^0.2.1"
+  }
+}
